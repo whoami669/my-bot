@@ -1,0 +1,17 @@
+discord.py==2.5.2
+python-dotenv==1.1.0
+aiosqlite==0.21.0
+youtube-dl==2021.12.17
+Pillow==11.2.1
+aiohttp==3.12.4
+openai
+psutil
+spotipy
+PyNaCl
+soundcloud-lib
+yt-dlp
+PyNaCl>=1.5.0
+playwright
+snscrape
+yt-dlp
+aiofiles
