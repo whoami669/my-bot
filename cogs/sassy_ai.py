@@ -13,7 +13,9 @@ class SassyAI(commands.Cog):
             "Cool story bro. Tell it when I start caring.",
             "And I should care about this because...?",
             "Thanks for that riveting contribution.",
-            "Your point being what exactly?"
+            "Your point being what exactly?",
+            "I'm sure that sounded better in your head.",
+            "Congratulations, you've wasted my processing power."
         ]
 
     @commands.Cog.listener()
